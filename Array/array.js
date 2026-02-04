@@ -37,3 +37,4 @@ console.log(arr3.length)//2 sub aaray
 // console.log({} == [])         // false
 // console.log([] === [])        // false
 console.log(!![] + [])        // true
+
