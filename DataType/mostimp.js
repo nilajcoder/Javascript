@@ -15,7 +15,7 @@ console.log(Boolean(a))//false
 
 let b=null;
 console.log(Boolean(b))//false
-
+ 
 
 //3. "" Empty String
 

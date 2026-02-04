@@ -13,7 +13,7 @@ console.log(a)//Infinity
 
 /*
 Note:
-Infinity is not an error
+Infinity is not an error 
 
 Operations with Infinity often result in Infinity or NaN
 */

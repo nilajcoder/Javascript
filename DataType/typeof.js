@@ -16,7 +16,7 @@ let z = 10.25;
 console.log(typeof z); // "number"
 
 let a = true;
-console.log(typeof a); // "boolean"
+console.log(typeof a); // "boolean" 
 
 let b = "nilaj";
 console.log(typeof b); // "string"

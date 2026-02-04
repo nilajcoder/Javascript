@@ -10,7 +10,7 @@ Reference- Object ,Array,Function
 //string
 m="tony";
 console.log(m);
-//number
+//number 
 a=10;
 console.log(a);
 
