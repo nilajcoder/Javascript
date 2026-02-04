@@ -7,6 +7,12 @@ Answer :- Variable is a memory location where we Store Data
 
 
 
+Variable rules
+1.Case sensitive
+2.Letter digit underscore and $ allowed should be 1st Charecter
+3.reseverd words can not be variables.
+
+
 let var & const
 -----------------
 var: variable can be redeclared & updated. A global scope variable  before 2015 we used var
