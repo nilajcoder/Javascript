@@ -16,7 +16,7 @@ console.log("str" + 5)//str5 string
 console.log("5" - 2)//3//number
 console.log(1 - "2") //-1 number
 console.log("1" - "2")//-1 number
-console.log("str" - "hii")//NAN
+console.log("str" - "hii")//NAN 
 console.log("str" - 5)//NAN
 console.log(5 - "g")// NAN
 

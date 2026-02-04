@@ -12,7 +12,7 @@ console.log(a ** b); // 1000 (Exponentiation a^b)
 
 //Increment & Decrement:
 
-a++; // Post-increment
+a++; // Post-increment 
 ++a; // Pre-increment
 a--; // Post-decrement
 --a; // Pre-decrement
