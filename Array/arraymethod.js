@@ -20,7 +20,7 @@ console.log(multiplication); // [2, 4, 6]
 //Filter
 let brr = [10, 15, 20, 25];
 
-let filterelement = brr.filter((value) => value > 18);
+let filterelement = brr.filter((value) => value > 18);//callback
 let even=brr.filter((value=>value%2==0 ))
 let odd=brr.filter((value=>value%2==!0 ))
 console.log(filterelement); // [20,25]
