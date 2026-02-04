@@ -18,10 +18,10 @@ let ball={
 }
 // Accessing object properties
 console.log(ball);
-console.log(ball.color);
-console.log(ball.size);
-console.log(ball.price);
-console.log(ball.name);
+console.log(ball.color);//red
+console.log(ball.size);//round
+console.log(ball.price);//20
+console.log(ball.name);//soccer ball
 
 
 let person={
