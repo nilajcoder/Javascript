@@ -9,3 +9,6 @@ An Array in JavaScript is a data structure used to store multiple values in a si
 
 
 */
+
+let a=[1,2,3]
+console.log(a)
