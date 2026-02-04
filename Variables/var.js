@@ -53,5 +53,5 @@ console.log(n);//86
 
 //const
 
-const t=10;
+const t=10;   
 console.log(t);//10
