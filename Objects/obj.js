@@ -36,3 +36,12 @@ console.log(person.firstName);
 console.log(person.age);
 console.log(person.occupation);
 console.log(person.isEmployed);
+
+//Built-in Object Methods
+console.log(Object.keys(person))//keys
+console.log(Object.values(person))//value
+console.log(Object.entries(person))//object
+for(let i in person){
+    console.log(i,person[i])
+    
+}
