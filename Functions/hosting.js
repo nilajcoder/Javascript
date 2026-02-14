@@ -13,7 +13,7 @@ You can call the function before it is defined
 */
 
 console.log(add(5,5))
-function add(a,b){
+function add(a,b){ 
 
     return a+b
 }

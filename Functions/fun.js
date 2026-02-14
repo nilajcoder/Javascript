@@ -11,7 +11,7 @@ myfun("I Love Js");
 function Hifun(){ //zero param
    console.log("Hii JS");
 }
-Hifun();
+Hifun(); 
 
 //Funtion -> add two numbers
 

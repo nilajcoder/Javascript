@@ -12,7 +12,7 @@ function oneton(n){
 
     if(n==7){
 
-        return
+        return 
     }
     console.log(n)
     oneton(n+1)

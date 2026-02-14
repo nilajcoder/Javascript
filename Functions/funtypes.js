@@ -10,8 +10,8 @@ console.log("Addition is Arrow Function "+" "+add(2,3));
 Function declaration is a way to define function using function keyword
 
 */
-/*
-
+/* 
+ 
 Pure Function is block of statement that performs specific task .
 it alsways returns same output for same input
 */
