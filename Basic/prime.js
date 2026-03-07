@@ -25,3 +25,22 @@ function checkprime(n){
 checkprime(5)
 checkprime(6)
 checkprime(1)
+
+
+/*
+ Write a Function Factors of a number
+*/
+
+function factorofnumber(n){
+  
+
+    console.log("Factors of a number =" +n)
+    for(let i=1;i<=n;i++){
+
+        if(n%i==0){
+            console.log(i)
+        }
+    }
+}
+factorofnumber(6)
+factorofnumber(10)
