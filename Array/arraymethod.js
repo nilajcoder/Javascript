@@ -59,3 +59,27 @@ let value = [10, 20, 30];
 value.forEach((value) => {
   console.log(value);//10 20 30
 });
+
+
+/*
+splice :-Changes the original array by adding, removing, or replacing elements.
+*/
+
+console.log("Splice")
+let sp=[1,2,3,4,5]
+sp.splice(0,2)//0 index number 2 number of item deleted
+console.log(sp)//3 4 5
+
+
+/*
+slice:- Returns a new array without changing the original.
+array.slice(start, end)
+start → start index
+
+end → end index (not included)
+*/
+
+console.log("Slice ")
+let sl=[1,2,3,6,9,5]
+let sli=sl.slice(1,4)
+console.log(sli)//2,3,6
