@@ -26,3 +26,22 @@ for (let i of numbers) {
 
 }
 console.log("Sum is " + sum);
+
+
+/*
+
+For loop:
+for(initialization; condition; update){
+    // code to execute
+}
+
+In JavaScript, the for loop is used when 
+you want to repeat a block of code a specific number of times.
+*/
+
+/*
+1 to 5
+*/
+for(let j=1;j<=5;j++){ //1<=5 j++ 2<=5 j++ 3 3<=5  j++
+    console.log(j) //1 2 3
+}
